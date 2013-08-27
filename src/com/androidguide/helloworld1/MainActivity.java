@@ -1,4 +1,6 @@
-package com.androidguide.helloworld;
+package com.androidguide.helloworld1;
+
+import com.androidguide.helloworld.R;
 
 import android.os.Bundle;
 import android.app.Activity;
